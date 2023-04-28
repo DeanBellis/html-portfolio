@@ -1,2 +1,2 @@
 # html-portfolio
-My capstone projects
+My capstone project 1
